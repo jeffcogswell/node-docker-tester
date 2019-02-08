@@ -1,8 +1,6 @@
 # node-docker-tester
 Basic docker image that just runs a counter in node. For testing purposes. Feel free to fork, use as you want, etc.
 
-( Work in progress - don't use it yet :=D )
-
 I'm not specifying a version of node. Use what you want. If you want a specific version, just tack it on to the end of the FROM line, e.g.
 
 ```
