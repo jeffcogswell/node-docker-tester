@@ -1,0 +1,16 @@
+{
+  "name": "docker-tester",
+  "version": "1.0.0",
+  "description": "Basic docker image that just runs a counter in node. For testing purposes. Feel free to fork, use as you want, etc.",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffcogswell/node-docker-tester.git"
+  },
+  "author": "Jeff Cogswell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffcogswell/node-docker-tester/issues"
+  },
+  "homepage": "https://github.com/jeffcogswell/node-docker-tester#readme"
+}
